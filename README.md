@@ -1,14 +1,14 @@
 ## Olá, meu nome é Carlos Ruan :grin:  
 <div>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img height="40px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 <br/>
 <div>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosRuanOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHubStats"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRuanOliveira&layout=compact&langs_count=10&theme=tokyonight" alt="TopLangs"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=CarlosRuanOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHubStats"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRuanOliveira&layout=compact&langs_count=10&hide=Hack&theme=tokyonight" alt="TopLangs"/>
 </div>  
 
 ## 
@@ -24,8 +24,8 @@
  
 ### Sobre mim:
   - 🔍 Procurando oportunidade de estágio na área de desenvolvimento.  
-  - :book: Estudando: JavaScript.  
-  - :brain: Conhecimentos em HTML5/CSS3, JavaScript, Python, SQL, PHP.  
+  - :book: Estudando: NodeJS/JavaScript.  
+  - :brain: Conhecimentos em HTML5/CSS3, JavaScript, NodeJS, Python, Java, MySQL, PHP.  
   - :desktop_computer: Me interesso pela área de desenvolvimento de software, banco de dados e segurança da informação.  
   - :man_student: Cursando Superior em Sistemas de Informação, estou iniciando na carreira de desenvolvedor.  
   - :man_technologist: Sou técnico em Redes de Computadores e já atuei no setor de :wrench:Suporte/Manutenção de computadores, sempre gostei da área de TI :heart:, procuro sempre estar estudando para melhorar ou aprender algo novo.  
