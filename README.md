@@ -1,9 +1,11 @@
 ## Olá, meu nome é Carlos Ruan :grin:  
 <div>
-  <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img height="40px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
-  <img height="50px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img height="40px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="55px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="65px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
 </div>
 <br/>
 <div>
@@ -23,9 +25,10 @@
  </div>
  
 ### Sobre mim:
-  - 🔍 Procurando oportunidade de estágio na área de desenvolvimento.  
-  - :book: Estudando: NodeJS/JavaScript.  
-  - :brain: Conhecimentos em HTML5/CSS3, JavaScript, NodeJS, Python, Java, MySQL, PHP.  
-  - :desktop_computer: Me interesso pela área de desenvolvimento de software, banco de dados e segurança da informação.  
+  - 🔍 Procurando vagas de júnior na área de desenvolvimento.  
+  - :book: Estudando: NodeJS, ReactJS.  
+  - :brain: Conhecimentos em HTML5/CSS3, JavaScript, NodeJS, Python, Java, C#, PHP, SQL(Postgres/SqlServer/MySql).  
+  - :desktop_computer: Tenho muito interesse pela área de desenvolvimento de software, principalmente web,  
+  também tenho curiosidade na área de segurança da informação.  
   - :man_student: Cursando Superior em Sistemas de Informação, estou iniciando na carreira de desenvolvedor.  
   - :man_technologist: Sou técnico em Redes de Computadores e já atuei no setor de :wrench:Suporte/Manutenção de computadores, sempre gostei da área de TI :heart:, procuro sempre estar estudando para melhorar ou aprender algo novo.  
