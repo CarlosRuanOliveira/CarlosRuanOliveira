@@ -28,7 +28,7 @@
 ### Sobre mim:
   - 🔍 Procurando vagas de pleno na área de desenvolvimento.  
   - :book: Estudando: ReactJS, C# .Net e NodeJS.  
-  - :brain: Tenho 3 anos de experiência com HTML/CSS, JavaScript e seus frameworks React e Next, frameworks de estilização Tailwind e CSS, C# .Net, NodeJS, SQL(Postgres/MySql). Mas também tenho noções de Java, PHP e Python.
+  - :brain: Tenho 3 anos de experiência com HTML/CSS, JavaScript e seus frameworks React e Next, frameworks de estilização Tailwind e Styled Components, C# .Net, NodeJS, SQL(Postgres/MySql). Mas também tenho noções de Java, PHP e Python.
   - :desktop_computer: Tenho muito interesse pela área de desenvolvimento de software, principalmente web,  
   também tenho curiosidade na área de segurança da informação.  
   - :man_student: Cursando Superior em Sistemas de Informação.  
