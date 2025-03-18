@@ -1,4 +1,4 @@
-## Olá, meu nome é Carlos Ruan :grin:  
+## Olá, meu nome é Carlos Ruan 😃  
 <div>
   <img height="40px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="40px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
@@ -26,7 +26,7 @@
  </div>
  
 ### Sobre mim:
-  - 🔍 Procurando vagas de pleno na área de desenvolvimento.  
+  - 🔍 Aberto a novas oportunidades.  
   - :book: Estudando: ReactJS, C# .Net e NodeJS.  
   - :brain: Tenho 3 anos de experiência com HTML/CSS, JavaScript e seus frameworks React e Next, frameworks de estilização Tailwind e Styled Components, C# .Net, NodeJS, SQL(Postgres/MySql). Mas também tenho noções de Java, PHP e Python.
   - :desktop_computer: Tenho muito interesse pela área de desenvolvimento de software, principalmente web,  
