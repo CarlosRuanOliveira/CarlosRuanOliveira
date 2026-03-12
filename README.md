@@ -10,8 +10,7 @@
 </div>
 <br/>
 <div>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=CarlosRuanOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHubStats"/>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRuanOliveira&layout=compact&langs_count=10&hide=Hack&theme=tokyonight" alt="TopLangs"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRuanOliveira&layout=compact&langs_count=10&hide=Hack&theme=tokyonight" alt="TopLangs"/>
 </div>  
 
 ## 
@@ -27,9 +26,9 @@
  
 ### Sobre mim:
   - 🔍 Aberto a novas oportunidades.  
-  - :book: Estudando: ReactJS, C# .Net e NodeJS.  
-  - :brain: Tenho 3 anos de experiência com HTML/CSS, JavaScript e seus frameworks React e Next, frameworks de estilização Tailwind e Styled Components, C# .Net, NodeJS, SQL(Postgres/MySql). Mas também tenho noções de Java, PHP e Python.
-  - :desktop_computer: Tenho muito interesse pela área de desenvolvimento de software, principalmente web,  
+  - :book: Estudando: C# .Net, React JS e NodeJS.  
+  - :brain: Tenho mais de 3 anos de experiência com HTML/CSS, JavaScript e seus frameworks React e Next, frameworks de estilização Tailwind e Styled Components, C# .Net, NodeJS, SQL(Postgres/MySql). Mas também tenho noções de Java, PHP e Python.
+  - :desktop_computer: Tenho muito interesse por engenharia e arquitetura de software, principalmente em desenvolvimento web,  
   também tenho curiosidade na área de segurança da informação.  
   - :man_student: Cursando Superior em Sistemas de Informação.  
   - :man_technologist: Sou um desenvolvedor fullstack e já atuei no setor de :wrench:Suporte/Manutenção de computadores, sempre fui apaixonado pela área de TI :heart:, procuro sempre estar estudando para melhorar ou aprender algo novo.  
